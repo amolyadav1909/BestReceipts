@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BestReceipt</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forg"><u>Forget Your Password?</u></string>
+    <string name="email">Email</string>
+    <string name="sendEmail">Reset Password</string>
+    <string name="heading">Heading</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="Ok">Ok</string>
+    <string name="warranty">Warranty</string>
+    <string name="country_prompt">Choose a Month Year</string>
+<string-array name="warranty_arrays">
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+<item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+<item>10</item>
+<item>11</item>
+<item>12</item>
+<item>13</item>
+<item>14</item>
+<item>15</item>
+<item>16</item>
+<item>17</item>
+<item>18</item>
+<item>19</item>
+<item>20</item>
+</string-array>
+<string-array name="warranty_month_array">
+<item>Month</item>
+<item>Year</item>
+</string-array>
+</resources>
